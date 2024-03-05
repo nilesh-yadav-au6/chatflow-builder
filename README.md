@@ -3,8 +3,6 @@
 **Project Description**
 A chatbot flow is built by connecting multiple messages together to decide the order of execution.
 
-![alt text](chatflow.png)
-
 **Deployed Link**
 
 `https://chatflowbuilder.netlify.app/`
